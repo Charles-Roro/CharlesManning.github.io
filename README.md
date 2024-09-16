@@ -11,6 +11,9 @@
  - <b>Cloud storage static webpage in Google Cloud Platform using IaC Terraform</b>
      [Static webpage code](https://github.com/Charles-Roro/Charles-GCP-Terraform-Pub-Bucket.git)
    
+ - <b>Creating an Unmanaged Instance group with a Load Balancer and setting up Cloud Armor Rules for DDos prevention</b>
+      [Cloud Armor Setup](https://github.com/Charles-Roro/GCPCloudArmor.git)
+
 
 <h2> 🤳 Connect with me:
 
