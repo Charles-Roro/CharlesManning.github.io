@@ -1,6 +1,6 @@
 <h1>Hi, I'm Charles! <br/><a href="https://github.com/Charles-Roro">Solutions Architect </a>, <a href="https://www.linkedin.com/in/charles-manning-127379303">Cybersecurity Professional</a> </h1>
 
-<h2>👨‍💻 Solutions Architect Projects:</h2>
+<h2>👨‍💻 Solutions Architect and Security Projects:</h2>
 
 - <b>A Multi-region Solution for a Gaming company using Google Cloud Platform and IaC Terraform</b>
       [Using GCP services to create a secure solution for a gaming company](https://github.com/Charles-Roro/Charles-GCP-Terraform.git)
@@ -13,6 +13,11 @@
    
  - <b>Creating an Unmanaged Instance group with a Load Balancer and setting up Cloud Armor Rules for DDos prevention</b>
       [Cloud Armor Setup](https://github.com/Charles-Roro/GCPCloudArmor.git)
+
+
+- <b>Utilizing Microsoft Azure to create a Honeypot</b>
+      [Azure Honeypot](https://github.com/Charles-Roro/ManningAzureHoneypot.git)
+
 
 
 <h2> 🤳 Connect with me:
