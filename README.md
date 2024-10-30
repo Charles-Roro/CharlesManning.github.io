@@ -19,6 +19,13 @@
       [Azure Honeypot](https://github.com/Charles-Roro/ManningAzureHoneypot.git)
 
 
+- <b>Utilizing AWS and Docker Desktop to create a CI/CD pipeline</b>
+      [Using Terraform along with Snyk, SonarQube, and Jenkins to check code for bugs and vulnerabilities.](https://github.com/Charles-Roro/CI-CD-AWS-pipeline.git)
+
+
+
+
+
 
 <h2> 🤳 Connect with me:
 
