@@ -22,6 +22,9 @@
 - <b>Utilizing AWS and Docker Desktop to create a CI/CD pipeline</b>
       [Using Terraform along with Snyk, SonarQube, and Jenkins to check code for bugs and vulnerabilities.](https://github.com/Charles-Roro/CI-CD-AWS-pipeline.git)
 
+- <b>Making a Multi-Cloud Fake App(Website) to monitor with Wazuh</b>
+      [Using Terraform,Snyk, Ansible, Nmap, and Wazuh.](https://github.com/Charles-Roro/Honeyapp.git)
+
 
 
 
